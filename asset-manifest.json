@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/reactecommerceweb/static/css/main.9d104a06.css",
+    "main.js": "/github.io/reactecommerceweb/static/js/main.525c1f46.js",
+    "static/js/787.c2ed1617.chunk.js": "/github.io/reactecommerceweb/static/js/787.c2ed1617.chunk.js",
+    "index.html": "/github.io/reactecommerceweb/index.html",
+    "main.9d104a06.css.map": "/github.io/reactecommerceweb/static/css/main.9d104a06.css.map",
+    "main.525c1f46.js.map": "/github.io/reactecommerceweb/static/js/main.525c1f46.js.map",
+    "787.c2ed1617.chunk.js.map": "/github.io/reactecommerceweb/static/js/787.c2ed1617.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d104a06.css",
+    "static/js/main.525c1f46.js"
+  ]
+}
